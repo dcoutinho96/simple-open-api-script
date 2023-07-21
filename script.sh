@@ -3,7 +3,7 @@
 rm anne-log.txt
 
 # Define a chave da API da OpenAI
-OPENAI_KEY="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"
+OPENAI_KEY="<key>"
 
 # Função para logar o erro
 log_error() {
@@ -39,7 +39,7 @@ get_gender() {
 
 
 # Define o nome do arquivo de entrada e de saída
-input_file="orignal.csv"
+input_file="original.csv"
 output_file="revisado.csv"
 log_file="log.txt"
 
