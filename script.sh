@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm anne-log.txt
+rm log.txt
 
 # Define a chave da API da OpenAI
 OPENAI_KEY="<key>"
